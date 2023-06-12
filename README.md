@@ -71,3 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Deployes on netlify
 https://roaring-chebakia-fdcfeb.netlify.app/
+
+### browser 
+
+
+![Screenshot (156)](https://github.com/chandramogali/Crypto-dashboard/assets/92980776/0806218d-bde5-4647-8008-51fae7483d34)
